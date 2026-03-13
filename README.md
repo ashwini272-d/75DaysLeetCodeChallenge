@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
