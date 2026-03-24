@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
