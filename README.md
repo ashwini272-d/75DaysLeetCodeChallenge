@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 ## Interactive
