@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
