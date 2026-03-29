@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
