@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
