@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 ## Divide and Conquer
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
+| [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2843-count-symmetric-integers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
