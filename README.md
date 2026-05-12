@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1089-duplicate-zeros](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [1720-decode-xored-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1089-duplicate-zeros](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
