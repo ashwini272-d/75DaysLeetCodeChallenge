@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2843-count-symmetric-integers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
