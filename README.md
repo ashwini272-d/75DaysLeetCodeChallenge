@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1720-decode-xored-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1720-decode-xored-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
