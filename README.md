@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3731-find-missing-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3731-find-missing-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
