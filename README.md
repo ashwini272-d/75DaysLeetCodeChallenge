@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1720-decode-xored-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1720-decode-xored-array) |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2843-count-symmetric-integers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,4 +287,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
