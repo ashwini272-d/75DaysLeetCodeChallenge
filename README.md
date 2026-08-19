@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 ## Greedy
 |  |
