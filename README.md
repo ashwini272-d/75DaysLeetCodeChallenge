@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1089-duplicate-zeros) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ashwini272-d/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
